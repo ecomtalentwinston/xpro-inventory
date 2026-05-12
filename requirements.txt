@@ -1,0 +1,9 @@
+requests
+python-dotenv
+supabase
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+sqlalchemy

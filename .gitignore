@@ -1,0 +1,12 @@
+.env
+venv/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+forecasts.db
+sellerboard_exports/*.xlsx
+sellerboard_exports/*.xls
+*.zip
+*.lnk
+.DS_Store
